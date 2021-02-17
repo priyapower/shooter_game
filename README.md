@@ -2,6 +2,7 @@
 
 ## About
 This 2D side-scroller is an "avoid the obstacles" type game. The goal is to avoid the incoming missiles, if hit, the game will automatically exit the game window. Players can move their jet using their arrow keys; players cannot move off screen. All obstacles will enter from the right side of the screen and exit screen left.
+![Pygame Demo](https://user-images.githubusercontent.com/49959312/108242968-c98ced80-710a-11eb-988c-acc09932cc49.mov)
 
 ## Requirements
 - [Python 3](https://www.python.org/downloads/) installed `Version > 3.8.6`
